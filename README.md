@@ -6,7 +6,11 @@ This repo contains collection of resource guides for learning technical and soft
 
 ## Data Structures and Algorithms
 
+## Data Structure and Algorithms Patterns
+https://seanprashad.com/leetcode-patterns/
 
+## Visualize Algorithms
+https://visualgo.net/en
 
 ## Tips on whiteboard or online docs
 
